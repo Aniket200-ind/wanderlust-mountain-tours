@@ -6,4 +6,4 @@ This is a simple website build using vanilla HTML and CSS. I have used CSS Flexb
 
 This is a assignment from Week2 session of  **GeeksForGeeks's** FullStack Development Course.
 
-[Click here to view the website]()
+[Click here to view the website](https://aniket200-ind.github.io/wanderlust-mountain-tours/)
